@@ -8,7 +8,7 @@ I came across Selenium, which is a tool that allows you to automate web browsers
 
 ## What does it do?
 
-This script loads the New York DMV Website and automatically fills out user's ID Number, and full Birthdate. After filling out the information, it waits for the following page to load. After the list of available appointments its displayed, it will search the for the element which displays the month the appointments are for; if no appointment has the desired month, it will continually refresh the page. Once an appointment is found that has the desired month, a sound will play- notifying you that an appointment is available. 
+This script loads the New York DMV Website and automatically fills out user's ID Number, and full birth date. After filling out the information, it waits for the following page to load. After the list of available appointments its displayed, it will search the for the element which displays the month the appointments are for; if no appointment has the desired month, it will continually refresh the page. Once an appointment is found that has the desired month, a sound will play- notifying you that an appointment is available. 
 
 
 ## Usage
