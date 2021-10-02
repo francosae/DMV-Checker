@@ -81,4 +81,4 @@ print(driver.title)
 
 ## Roadmap
 
-- I'm aware that this is fairly simple and I would like to expand on this in the future by making automatic appointment scheduling possible.
+- This is fairly small and I would like to expand on this in the future by making automatic appointment scheduling possible.
