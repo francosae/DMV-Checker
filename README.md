@@ -1,4 +1,4 @@
-# DMV-Checker
+# DMV-Notifier
 
 ![alt text](https://github.com/francosae/DMV-Checker/blob/main/webpage.PNG)
 
