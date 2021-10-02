@@ -1,6 +1,6 @@
 # DMV-Checker
 
-![alt text](https://github.com/[francosae]/[DMV-Checker]/blob/main/webpage.png?raw=true)
+![alt text](https://github.com/francosae/DMV-Checker/blob/main/webpage.PNG)
 
 This small project was used to solve a real problem of mine. In the early Summer of 2021, I began to take driving lessons to prepare for my road test. I took classes every day that I could and once I felt confident enough to take my road test, I went onto the DMV website to begin searching for test dates. Surprisingly, the test dates were MONTHS backed up. I couldn't wait months to take my driving test because I already spent time preparing- I felt like I would forget everything I learned and need to spend more money for a refresher. The only thing I could think of was constantly checking the DMV website for a test date that isn't so far away. After a couple of hours, I knew there had to be a smarter way to navigate this. I figured I could make my computer do this for me.
 
