@@ -76,8 +76,6 @@ if "Jun" in date playsound('/path/note.wav')
     
 print(date)
 print(driver.title)
-    
-
 ```
 
 ## Roadmap
